@@ -50,3 +50,25 @@ table {
 
 
 /* Write your css below here */
+.table, tr, th, td{
+	border: 1px solid black;
+}
+
+.table{
+	align-items:auto;
+}
+
+footer{
+	background-color: aquamarine;
+	color: blue;
+	
+}
+
+main{
+	background-color: floralwhite;
+}
+
+header{
+	background-color: #6fb7b0;
+}
+
